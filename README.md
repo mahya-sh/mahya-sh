@@ -2,7 +2,7 @@
 **mahyash/mahyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h2> 👩🏻‍💻 &nbsp;About me</h2>
-I am a research assistant working on applying machine learning algorithms to control systems. I have experience in deep learning, and I am currently focused on trustworthy AI and optimization.
+I am a research assistant working on applying machine learning algorithms to control systems. I have experience in deep learning, and I am currently focused on optimization.
 
 <h2> 🚀 &nbsp;Languages and Tools</h2>
 <p align="left">
